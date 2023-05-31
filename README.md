@@ -1,3 +1,4 @@
+(trigger workflow)
 # A bootloader for SN32F2x-based keyboards
 ## Compiling
 
